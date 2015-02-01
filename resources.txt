@@ -1,0 +1,8 @@
+References for Project 2:
+
+JavaScript Basic course.
+piazza.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+https://developers.google.com/maps/documentation/javascript/tutorial
+http://www.w3schools.com/js/default.asp
+http://json.org/
